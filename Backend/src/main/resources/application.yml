@@ -1,6 +1,0 @@
-spring:
-  data:
-    mongodb:
-      database: rest
-      host: mongo-boot
-      port: 27017
